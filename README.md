@@ -26,9 +26,7 @@ With the decentralization of e-commerce channels, both vendors and customers fac
 3. **Model Comparison & Selection**: Evaluating performance using metrics like F1-score, precision, and recall.
 4. **Model Interpretability**: Using tools like SHAP and LIME to explain model predictions.
 
-## Learning Outcomes
-
-By the end of this challenge, participants should have:
+## Outcomes
 
 - A working pipeline for entity extraction from Amharic Telegram messages.
 - A performance analysis of different models and their interpretability.
