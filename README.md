@@ -1,4 +1,4 @@
-# EthioMart Telegram-Based E-Commerce Platform
+# EthioMart-Amharic-Named-Entity-Recognition
 
 ## Overview
 
